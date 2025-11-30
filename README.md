@@ -60,11 +60,8 @@ pytest
 ```
 
 ## Documentation
-- Project plan: `docs/PROJECT_PLAN.md`
 - Architecture: `docs/ARCHITECTURE.md`
-- Technical report outline: `docs/TECH_REPORT_OUTLINE.md`
 - API reference: `docs/API_REFERENCE.md`
-- Slide outline: `docs/SLIDES_OUTLINE.md`
 
 ## Roadmap
 - Client-side WASM crypto (avoid decrypting on server).
